@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "My Twine Stories"
 permalink: /twine/
 ---
