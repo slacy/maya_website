@@ -2,12 +2,10 @@
 
 
 
-### Markdown
+### Where Django got his name
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Django Reinhardt is a Belgian jazz guitarist. Django lacy is a Golden Retriever.
+The reason Django Lacy is named after Django Reinhardt not only because Django is a super cool name, but because Django Lacy had a special liking to his music. Some might say he "danced inside" to his music.
 
 # Header 1
 ## Header 2
