@@ -7,9 +7,12 @@
 Django Reinhardt is a Belgian jazz guitarist. Django lacy is a Golden Retriever.
 The reason Django Lacy is named after Django Reinhardt not only because Django is a super cool name, but because Django Lacy had a special liking to his music. Some might say he "danced inside" to his music.
 
-# Header 1
+## BALLS!!!
+
+
+
 ## Header 2
-### Header 3
+## Header 3
 
 - Bulleted
 - List
