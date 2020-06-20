@@ -9,6 +9,10 @@ The reason Django Lacy is named after Django Reinhardt not only because Django i
 
 ## BALLS!!!
 
+Tennis balls destroying time: 10 min, chucket balls destroying time: 20 min, baseballs destroying time: 15 min, bouncy balls destroying time: WARNING! 00 min!
+now he loves balls, especially chucket balls
+![image] (https://www.chewy.com/chuckit-ultra-rubber-ball-tough-dog/dp/108794)
+
 
 
 ## Header 2
