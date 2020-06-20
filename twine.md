@@ -1,6 +1,8 @@
+---
 layout: page
 title: "My Twine Stories"
 permalink: /twine/
+---
 
 # My Twine Stories
 
