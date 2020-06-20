@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Twine Stories"
-permalink: /twine
+permalink: /twine/
 ---
 
 # My Twine Stories
